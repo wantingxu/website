@@ -217,13 +217,13 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
+  name = "About me"
   url = "#about"
   weight = 1
 
 [[menu.main]]
-  name = "Research"
-  url = "#research"
+  name = "Curriculum Vitae"
+  url = "#cv"
   weight = 2
 
 [[menu.main]]

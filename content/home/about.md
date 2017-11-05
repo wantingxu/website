@@ -28,6 +28,7 @@ weight = 1
  
 +++
 
-# Biography
+# About me
 
-Coming soon!
+I am currently a quantitative researcher focusing on modeling problems in finance. I graduated from the [University of Chicago Statistics](https://galton.uchicago.edu/) Ph.D. program, and worked with [Prof. Mihai Anitescu](http://www.mcs.anl.gov/~anitescu/) and [Prof. Michael L. Stein](https://galton.uchicago.edu/~stein/). My thesis concentrates on computational and statistical methods for the optimal estimation, control and modeling of dynamical systems. 
+
