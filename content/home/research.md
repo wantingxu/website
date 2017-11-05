@@ -9,7 +9,7 @@ title = "Papers"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 2
 
 # View.
 # Customize how projects are displayed.
@@ -37,9 +37,9 @@ filter_default = 0
   tag = ".demo"
 +++
 
-**Xu, W.** and Anitescu, M. 2016. A limited-memory multiple shooting method for weakly constrained data assimilation. *SIAM Journal on Numerical Analysis*, 54(6): 3300-3331. <a href="/files/MSCN.pdf" target="_blank"> PDF </a>
+**Xu, W.** and Anitescu, M. 2016. <a href="/files/MSCN.pdf" target="_blank" style="color:lightnavy"> A limited-memory multiple shooting method for weakly constrained data assimilation. </a> *SIAM Journal on Numerical Analysis*, 54(6): 3300-3331.
 
-**Xu, W.** and Stein, M. L. 2017. Maximum likelihood estimation for a smooth Gaussian random field model. *SIAM/ASA Journal on Uncertainty Quantification*, 5(1): 138-175. <a href="/files/MLE.pdf" target="_blank"> PDF </a>
+**Xu, W.** and Stein, M. L. 2017. <a href="/files/MLE.pdf" target="_blank" style="color:lightnavy"> Maximum likelihood estimation for a smooth Gaussian random field model. </a> *SIAM/ASA Journal on Uncertainty Quantification*, 5(1): 138-175. 
 
 **Xu, W.** and Anitescu, M. 2016. Exponentially accurate temporal decomposition for long-horizon linear-quadratic dynamic optimization. *Submitted*. 
 
