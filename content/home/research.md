@@ -18,7 +18,7 @@ weight = 3
 
 **Xu, W.** and Anitescu, M. 2016. Exponentially accurate temporal decomposition for long-horizon linear-quadratic dynamic optimization. *Submitted*. 
 
-**Xu, W.** and Anitescu, M. 2017. Exponentially convergent receding horizon strategy for constrained optimal control. *In preparation*.
+**Xu, W.** and Anitescu, M. 2017. Exponentially convergent receding horizon strategy for constrained optimal control. *Submitted*.
 
 **Xu, W.**, Stein, M. L. and Wisher, I. 2017. Modeling and predicting chaotic circuit data. *Submitted*.
 
