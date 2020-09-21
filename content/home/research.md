@@ -20,7 +20,7 @@ weight = 3
 
 **Xu, W.** and Anitescu, M. 2016. <a href="/files/MSCN.pdf" target="_blank" style="color:lightnavy"> A limited-memory multiple shooting method for weakly constrained data assimilation. </a> *SIAM Journal on Numerical Analysis*, 54(6): 3300-3331.
 
-**Xu, W.** and Anitescu, M. 2017. Exponentially convergent receding horizon strategy for constrained optimal control. </a> *Vietnam Journal of Mathematics*, 47 (4): 897-929.
+**Xu, W.** and Anitescu, M. 2019. Exponentially convergent receding horizon strategy for constrained optimal control. </a> *Vietnam Journal of Mathematics*, 47 (4): 897-929.
 
 
 
